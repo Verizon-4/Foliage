@@ -2,9 +2,9 @@
 Using a computer vision model to predict the impact of foliage on service quality
 
 ## Prerequisites
-You will need to have [Homebrew proj](https://formulae.brew.sh/formula/proj) installed on your machine to use geopandas.  
+You will need to have [PROJ](https://proj.org/en/9.5/) installed on your machine to use geopandas.  
 
-Installation for macOS: 
+[Homebrew](https://formulae.brew.sh/formula/proj) Installation for macOS: 
 ```shell
 brew install proj
 ```
