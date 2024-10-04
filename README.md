@@ -8,6 +8,7 @@ You will need to have [PROJ](https://proj.org/en/9.5/) installed on your machine
 ```shell
 brew install proj
 ```
+[Other OS installation instructions](https://proj.org/en/9.5/install.html)
 
 
 
