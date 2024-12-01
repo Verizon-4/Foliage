@@ -11,6 +11,24 @@ https://lms.ecornell.com/courses/1788003/pages/step-2-ensure-your-project-readme
 -->
 
 
+## Table of Contents
+
+| Section |
+| --- |
+| [Project Overview](#project-overview) |
+| [Objectives and Goals](#objectives-and-goals) |
+| [Methodology](#methodology) |
+| [Results and Key Findings](#results-and-key-findings) |
+| [Visualizations](#visualizations) |
+| [Potential Next Steps](#potential-next-steps) |
+| [Sample Datasets](#sample-datasets) |
+| [Colab Notebooks](#colab-notebooks) |
+| [Installation Instructions](#installation-instructions) |
+| [License](#license) |
+| [Credits and Acknowledgments](#credits-and-acknowledgments) |
+| [Individual Contributions](#individual-contributions) |
+
+
 ## Project Overview
 
 As part of Break Through Tech AI's Fall 2024 AI Studio program, Verizon challenged us to build a computer vision model that uses aerial images to predict how foliage affects wireless network connections across the United States.
@@ -46,37 +64,28 @@ Our team decided to pivot to a second project related to AutoBI in the middle of
 Ookla Network Data
 
 <p float="left">
-  <img src="./visualizations/Ookla%201.png" width="400" />
-  <img src="./visualizations/Ookla%202.png" width="400" /> 
+  <img src="./visualizations/Ookla_1.png" width="400" />
+  <img src="./visualizations/Ookla_2.png" width="400" /> 
 </p>
 
 Federal Communications Commission (FCC) Network Data
 
 <p float="left">
-  <img src="./visualizations/FCC%201.png" width="400" />
+  <img src="./visualizations/FCC_1.png" width="400" />
 </p>
 
 Landsat Imagery
 
 <p float="left">
-  <img src="./visualizations/Landsat%201.png" width="800" />
-  <img src="./visualizations/Landsat%202.png" width="800" />
-  <img src="./visualizations/Landsat%203.png" width="800" />
+  <img src="./visualizations/Landsat_1.png" width="700" />
+  <img src="./visualizations/Landsat_2.png" width="600" />
+  <img src="./visualizations/Landsat_3.png" width="600" />
 </p>
 
 
 ## Potential Next Steps
 
 Although we were under a time crunch and didn't complete as much as we would have liked for this project, we had some ideas for next steps if we were on a less restrictive timeline. We would've looked for additional datasets for both satellite imageery and network speed data, first focusing on New York but eventually expanding to across the country. After the buildling the model, we would deploy it and integrate it into an interactive tool for humans to provide feedback on model outputs and use RLHF (Reinforcement Learning with Human Feedback) to improve the model further.
-
-
-## Individual Contributions
-
-Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datasets following Kade's (our TA) example (`Kade_dataset_matching.ipynb`).
-
-Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example.
-
-Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
 
 
 ## Sample Datasets
@@ -107,3 +116,24 @@ You will need to have [PROJ](https://proj.org/en/9.5/) installed on your machine
 You will also need to install Python and the following libraries: matplotlib, numpy, seaborn, scipy.
 
 Run the cells in any one of our notebooks in this repository to run our code.
+
+
+## License
+
+Apache License 2.0
+
+
+## Credits and Acknowledgments
+
+Team Members: Adya Mohanty, Hridia Tanha, Katherine Chang Wu, Kiran Mitra, Vivian Liu  
+Verizon Challenge Advisors: Arthur Lusty, Arun Vonoz, Michael Hanson, Priyanka Giglio  
+TA: Yu-Chi (Kade) Lin
+
+
+## Individual Contributions
+
+Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datasets following Kade's (our TA) example (`Kade_dataset_matching.ipynb`).
+
+Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example.
+
+Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
