@@ -81,14 +81,14 @@ Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for lands
 
 ## Sample Datasets
 
-### Global Landsat Imagery Data
+Global Landsat Imagery Data  
 https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html
 
-### FCC Network Data
+FCC Network Data  
 Availability Data As Of: Jun 30, 2024 (latest), Provider Name: Verizon  
 https://broadbandmap.fcc.gov/data-download/data-by-provider
 
-### Ookla Network Data
+Ookla Network Data  
 2024 quarter 2 mobile performance  
 https://github.com/teamookla/ookla-open-data/tree/master
 
