@@ -43,20 +43,20 @@ Our team decided to pivot to a second project related to AutoBI in the middle of
 
 ## Visualizations
 
-Ookla Network Data
+### Ookla Network Data
 
 <p float="left">
   <img src="./visualizations/Ookla%201.png" width="400" />
   <img src="./visualizations/Ookla%202.png" width="400" /> 
 </p>
 
-Federal Communications Commission (FCC) Network Data
+### Federal Communications Commission (FCC) Network Data
 
 <p float="left">
   <img src="./visualizations/FCC%201.png" width="400" />
 </p>
 
-Landsat Imagery
+### Landsat Imagery
 
 <p float="left">
   <img src="./visualizations/Landsat%201.png" width="800" />
