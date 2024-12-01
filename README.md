@@ -88,15 +88,6 @@ Our team decided to pivot to a second project related to AutoBI in the middle of
 Although we were under a time crunch and didn't complete as much as we would have liked for this project, we had some ideas for next steps if we were on a less restrictive timeline. We would've looked for additional datasets for both satellite imageery and network speed data, first focusing on New York but eventually expanding to across the country. After the buildling the model, we would deploy it and integrate it into an interactive tool for humans to provide feedback on model outputs and use RLHF (Reinforcement Learning with Human Feedback) to improve the model further.
 
 
-## Individual Contributions
-
-Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datasets following Kade's (our TA) example (`Kade_dataset_matching.ipynb`).
-
-Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example. Wrote README.
-
-Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
-
-
 ## Sample Datasets
 
 Global Landsat Imagery Data  
@@ -143,6 +134,6 @@ TA: Yu-Chi (Kade) Lin
 
 Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datasets following Kade's (our TA) example (`Kade_dataset_matching.ipynb`).
 
-Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example.
+Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example. Wrote README.
 
-Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
+Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsat imagery.
