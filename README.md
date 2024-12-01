@@ -74,7 +74,7 @@ Although we were under a time crunch and didn't complete as much as we would hav
 
 Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datasets following Kade's (our TA) example (`Kade_dataset_matching.ipynb`).
 
-Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example.
+Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example. Wrote README.
 
 Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
 
