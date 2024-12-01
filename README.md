@@ -10,13 +10,16 @@ Project README instructions
 https://lms.ecornell.com/courses/1788003/pages/step-2-ensure-your-project-readme-is-complete-by-dec-8th-team-to-do
 -->
 
+
 ## Project Overview
 
 As part of Break Through Tech AI's Fall 2024 AI Studio program, Verizon challenged us to build a computer vision model that uses aerial images to predict how foliage affects wireless network connections across the United States.
 
+
 ## Objectives and Goals
 
 To provide actionable insights for Verizon network teams to diagnose connectivity issues, which they can use to optimize resource allocation and infrastructure planning.
+
 
 ## Methodology
 
@@ -36,6 +39,7 @@ These observations added to the complexity of our project since they caused issu
 To tackle these issues, we attempted to to focus on New York Data only. But given our time constraints, it was difficult to find relevant datasets that were sufficently large to train a computer vision model. Additioanlly, it was challenging to cross reference the satellite and network data.
 
 Our team decided to pivot to a second project related to AutoBI in the middle of fall due to the large scale of this one. You can take a look at that GitHub repo and deployed project here: https://github.com/am2558/verizon-sql-autobi/tree/main.
+
 
 ## Visualizations
 
@@ -60,9 +64,11 @@ Landsat Imagery
   <img src="./visualizations/Landsat%203.png" width="800" />
 </p>
 
+
 ## Potential Next Steps
 
 Although we were under a time crunch and didn't complete as much as we would have liked for this project, we had some ideas for next steps if we were on a less restrictive timeline. We would've looked for additional datasets for both satellite imageery and network speed data, first focusing on New York but eventually expanding to across the country. After the buildling the model, we would deploy it and integrate it into an interactive tool for humans to provide feedback on model outputs and use RLHF (Reinforcement Learning with Human Feedback) to improve the model further.
+
 
 ## Individual Contributions
 
@@ -71,6 +77,7 @@ Adya Mohanty (`Land_Coverage_EDA.ipynb`): Explored ways to cross reference datas
 Vivian Liu (`Vivian_Data_Exploration.ipynb`): Performed Exploratory data analysis on various network performance datasets and created visualizations. Explored landsat datasets and tried ways to cross reference datasets following Kade's example.
 
 Kiran Mitra (`gls-preliminary-eda.ipynb`): Created tile visualizations for landsate imagery.
+
 
 ## Sample Datasets
 
@@ -85,9 +92,11 @@ https://broadbandmap.fcc.gov/data-download/data-by-provider
 2024 quarter 2 mobile performance  
 https://github.com/teamookla/ookla-open-data/tree/master
 
+
 ## Colab Notebooks
 
 Our notebooks are all located in this repository and have a `.ipynb` extension.
+
 
 ## Installation Instructions
 
